@@ -1,0 +1,10 @@
+/Users/alex/work_tutorials/bin/Debug/netcoreapp2.0/work_tutorials.deps.json
+/Users/alex/work_tutorials/bin/Debug/netcoreapp2.0/work_tutorials.runtimeconfig.json
+/Users/alex/work_tutorials/bin/Debug/netcoreapp2.0/work_tutorials.runtimeconfig.dev.json
+/Users/alex/work_tutorials/bin/Debug/netcoreapp2.0/work_tutorials.dll
+/Users/alex/work_tutorials/bin/Debug/netcoreapp2.0/work_tutorials.pdb
+/Users/alex/work_tutorials/obj/Debug/netcoreapp2.0/work_tutorials.csproj.CoreCompileInputs.cache
+/Users/alex/work_tutorials/obj/Debug/netcoreapp2.0/work_tutorials.AssemblyInfoInputs.cache
+/Users/alex/work_tutorials/obj/Debug/netcoreapp2.0/work_tutorials.AssemblyInfo.cs
+/Users/alex/work_tutorials/obj/Debug/netcoreapp2.0/work_tutorials.dll
+/Users/alex/work_tutorials/obj/Debug/netcoreapp2.0/work_tutorials.pdb
