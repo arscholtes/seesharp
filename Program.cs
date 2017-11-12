@@ -19,7 +19,7 @@ namespace work_tutorials
             else if(numberOfMembers == 2)
                 Console.WriteLine(name + " is a duo.");
             else
-                Console.WriteLine(name + " has " + numberOfMembers + "members.");
+                //Console.WriteLine(name + " has " + numberOfMembers + "members.");
 
 
             Console.WriteLine(name + " has " + numberOfMembers + " talented musicians.");

@@ -1,5 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "files.autoSave": "onFocusChange",
-    "editor.fontSize": 10
+    "editor.fontSize": 10,
+    "workbench.editor.showTabs": true
 }
